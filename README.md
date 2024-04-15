@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project is not being actively maintained, and has a lack of documentation. I cannot say how generic this is and whether or not it'll work for whatever data you're processing    .
+
 # EegToSpss
 A program to combine any amount of EEG files to one SPSS file. Supports CSV and Excel XLSX and XLSM formats.
 
